@@ -17,5 +17,10 @@ Un site dédié au projet sera prochainement disponible
 
 ## Contribution
 Toutes les contributions sont les bienvenues.  
+
 Qu’il s’agisse de corrections, d’améliorations, ou de nouvelles propositions de traduction, votre aide est précieuse.
 Si vous avez besoin d'aide je vous invite à vous renseigner sur la documentation de hachimi : https://hachimi.noccu.art/docs/
+
+## Credits
+
+Merci à 
