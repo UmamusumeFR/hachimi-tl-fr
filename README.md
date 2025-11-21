@@ -23,4 +23,4 @@ Si vous avez besoin d'aide je vous invite à vous renseigner sur la documentatio
 
 ## Credits
 
-Merci à Paris Studio, Iz_Shiroi et DeChalon pour leur contribution pour le projet.
+Merci à **Paris Studio**, **Iz_Shiroi** et **DeChalon** pour leur contribution pour le projet.
