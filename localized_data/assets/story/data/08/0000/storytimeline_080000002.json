@@ -19,7 +19,7 @@
             "color_text_info_list": [
                 "Académie Tracen"
             ],
-            "text": "Ce tournoi par équipes organisé par<n>l'Académie Tracen mettra à l'épreuve<n>non seulement les capacités de chaque<n>individu, mais aussi leur force collective !"
+            "text": "Ce tournoi par équipes organisé par<n>\nl'Académie Tracen mettra à l'épreuve<n>\nnon seulement les capacités de chaque<n>\nindividu, mais aussi leur force collective !"
         },
         {
             "name": "Monologue",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "-je ne sais pas si je serai capable..."
+            "text": "je-je ne sais pas si je serai capable..."
         },
         {
             "name": "Taiki Shuttle",
