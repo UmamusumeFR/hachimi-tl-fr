@@ -1,0 +1,69 @@
+{
+    "text_block_list": [
+        {
+            "color_text_info_list": [
+                "Unity Cup"
+            ],
+            "text": "Enfin là, mesdames et messieurs ! La tant<n>\nattendue Unity Cup !",
+            "name": "Commentateur"
+        },
+        {
+            "name": "Monologue",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ],
+            "text": "L'Unity Cup est une compétition qui se déroule<n>\nen parallèle de la Twinkle Series."
+        },
+        {
+            "name": "Commentateur",
+            "color_text_info_list": [
+                "Académie Tracen"
+            ],
+            "text": "Ce tournoi par équipes organisé par<n>l'Académie Tracen mettra à l'épreuve<n>non seulement les capacités de chaque<n>individu, mais aussi leur force collective !"
+        },
+        {
+            "name": "Monologue",
+            "text": "Cependant, ce n'est pas qu'une simple<n>\ncompétition !"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nous devons sauver l'académie<n>\nd'un funeste destin !"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh mon dieu, ça veut dire qu'on est des<n>\nhéroïnes ?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "-je ne sais pas si je serai capable..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Tu nous auras à tes côtés, alors bien sûr que<n>\ntu peux ! On a juste à unir nos forces<n>\net tout donner pour gagner !"
+        },
+        {
+            "name": "Membres de l'Équipe",
+            "text": "Yeaaah!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Hah. Ce serait trop beau si c'était si<n>\nsimple de gagner."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Ouais, carrément !"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Tu crois vraiment que tu peux renverser<n>\nmon équipe ?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Le grand choc des équipes est sur le point\nde<n> débuter !"
+        },
+        {
+            "text": "Le grand choc des équipes est sur le point\nde<n> débuter !",
+            "name": "Monologue"
+        }
+    ]
+}
