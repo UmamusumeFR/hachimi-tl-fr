@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {},
+        {
+            "text": "Ce riz fraîchement cuit à la vapeur et ce<n>saumon grillé étaient vraiment parfaits...",
+            "name": "Tamamo Cross"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hein ?! E-est-ce que j'ai dit ça tout haut ?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Non, juste une supposition. Je me suis dit que<n>\ntu penserais à la nourriture."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "C’est incroyable, Tama ! On dirait une<n>\nvraie diseuse de bonne aventure !"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ouaip, ouaip, ça a toujours été mon rêve...<n>\nNaan !"
+        }
+    ]
+}

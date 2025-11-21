@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "text": "Oguri, je te défie ! Toi et moi, \nsur la<n>piste de course !",
+            "name": "Oguri Cap"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Bien sûr. Mais..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Est-ce que ça peut attendre que j’aie fini ce \npetit pain<n>fourré ? Après tout..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Les petits pains fourrés, ça se mange<n>\nbrûlants !"
+        },
+        {
+            "text": "Qu’est-ce que tu racontes ?! Pourquoi…",
+            "name": "Bamboo Memory"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Bien sûr qu'il faut finir ça d'abord !<n>Maintenant, dépêche-toi de le manger !"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Héhé... Compte sur moi !"
+        }
+    ]
+}

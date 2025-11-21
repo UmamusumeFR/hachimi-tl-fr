@@ -1,12 +1,35 @@
 {
     "text_block_list": [
         {
-            "text": "Je me demande ce que font Tome et les autres de chez nous en ce moment...",
+            "text": "Je me demande ce que font Tome et les autres \nde chez nous en ce moment...",
             "name": "Oguri Cap"
         },
         {
             "text": "Ce serait bien si je pouvais leur annoncer de bonnes nouvelles bientôt.",
             "name": "Oguri Cap"
-        }
+        },
+        {
+            "text": "Entraîneur, est-ce que tu penses parfois à ta ville natale ?",
+            "name": "Oguri Cap"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Si c’est le cas, n’hésite pas à m’en parler."
+        },
+        {
+            "text": "Je serai ton Tome !",
+            "name": "Oguri Cap"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
     ]
 }
