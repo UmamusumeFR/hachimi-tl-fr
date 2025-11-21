@@ -1,0 +1,20 @@
+{
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm... La cloche a sonné avant que je n'aie pu finir mon test, encore une fois."
+        },
+        {
+            "text": "Si j'étais rapide d'esprit comme Tama, est-ce que mes résultats s'amélioreraient ? Tout comme... Tama...",
+            "name": "Oguri Cap"
+        },
+        {
+            "text": "De quoi tu parles ?",
+            "name": "Oguri Cap"
+        },
+        {
+            "text": "Ouais, c'est bien elle.",
+            "name": "Oguri Cap"
+        }
+    ]
+}
