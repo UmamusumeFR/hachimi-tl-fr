@@ -1,1 +1,11 @@
-{}
+{
+    "1": "C'est un jour ensolleilé ici à %course\\npour la %distance-meter %ground\\n%race. %h_num_no runners\\nentrent sur le terrain.",
+    "2": "C'est un jour couvert ici à %course\\npour la %distance-meter %ground\\n%race. %h_num_no runners\\nentrent sur le terrain.",
+    "3": "La pluie crée de mauvaises conditions ici à la\\n%course pour la %distance-meter\\n%ground %race. %h_num_no\\ncoureuses entrent sur le terrain.",
+    "5": "Nous avons un ciel bleu, dégagé ici à la\\n%course pour la %distance-meter\\n%ground %race.\n%h_num_no\\ncoureuses entrent sur le terrain.",
+    "6": "Nous avons une tempête qui se prépare ici à la\\n%course pour la %distance-meter\\n%ground %race.\n%h_num_no\\ncoureuses entrent sur le terrain.",
+    "7": "La pluie va certainement être un test ici à la\\n%course pour la %distance-meter\\n%ground %race, mais \\nnous sommes enfin prêt à commencer.",
+    "8": "La neige est en train de tomber ici à la %course\\npour la %distance-meter %ground\\n%race. Quelle\\nUmamusume s'avérera victorieuse?!",
+    "9": "Nous avons un ciel bleu magnifique ici à la \\n%course.\nL'herbe devrait être bonne \\net ferme pour la course d'aujourd'hui!",
+    "10": "Le soleil brille fort au-dessus de la\\n%course. La poussière danse dans le ciel\\au-dessus de la piste ferme."
+}
