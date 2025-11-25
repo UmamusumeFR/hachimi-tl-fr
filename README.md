@@ -12,8 +12,9 @@ Ce dépôt a pour objectif de proposer une localisation complète et soignée du
 Le projet est encore en développement.  
 Certains éléments peuvent être incomplets ou sujets à modification.
 
-## Site officiel
-Un site dédié au projet sera prochainement disponible 
+## Lien
+- [Site Officiel](https://umamusumefr.github.io/)
+- [Discord](https://discord.gg/Tg2CKQen9R)
 
 ## Contribution
 Toutes les contributions sont les bienvenues.  
