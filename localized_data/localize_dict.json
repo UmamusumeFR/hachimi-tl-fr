@@ -322,6 +322,7 @@
     "TopFriend0002": "Suivre",
     "AccountDataLink497004": "Redémarrage en cours...",
     "AccountDataLink497001": "Erreur des Données du Jeu",
+<<<<<<< HEAD
     "Circle0001": "Marquer comme non lus",
     "Circle0003": "Chef",
     "Circle0008": "Gratuit",
@@ -333,4 +334,8 @@
     "CustomRace0045": "Course",
     "CustomRace0048": "Choix des Coureuses",
     "CustomRace0050": "Sauvegarder en temps que Partenaire d'entraînement"
+=======
+    "AccountDataLink497002": "Aucune données du jeu trouvées.",
+    "AccountDataLink497003": "Aucune données du jeu trouvées.\n\nSi vous avez associé votre compte en utilisant Se connecter avec Apple, désassocié votre Apple ID dans les paramètres de votre appareil.\n\nVeuillez contacter Apple pour plus d'informations sur comment le faire."
+>>>>>>> a11baeb296bf7e409fda8e46fc886ec12a7de73a
 }
